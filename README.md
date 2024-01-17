@@ -6,4 +6,4 @@ My reason behind choosing Stan Lee is mainly around his creative mind, I know hi
 I choose Stan Lee out of admiration for his creativity something I hope to reobtain and feel like I am starting to slowly get back thorugh all these projects. 
 That creative spark that initally got me into art as a whole and lead me to initially consider pursing a creative career be it graphic design or now web development.  
 
-To check out the site, [click here]
+To check out the site, [click here](https://mrdrekc.github.io/fCC_Tribute-Page/)
